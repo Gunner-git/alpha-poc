@@ -1,0 +1,25 @@
+#root {
+  width: 60vh;
+  height: 100vh;
+  float: right;
+}
+
+#main {
+  width: 100vh;
+  height: 100vh;
+  display: inline-block;
+}
+
+#content {
+  width: 40vh;
+  height: 100vh;
+  float: right;
+}
+
+body {
+  margin: 0;
+}
+
+.nextScreenButton{
+  float: right;
+}
